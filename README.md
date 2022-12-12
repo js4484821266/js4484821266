@@ -6,6 +6,7 @@
 - Interested in languages, philosophy, and mathematics
 - C, C++, Python
 - Protestant
+- INTJ
 - Mensa member
 - [LinkedIn](https://www.linkedin.com/in/yezu-yi/)
 ## Certificates
