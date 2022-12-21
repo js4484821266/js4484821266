@@ -5,7 +5,7 @@
 - On bachelor's degree course in computer engineering at Chungnam National University
 - Interested in languages, philosophy, and mathematics
 - C, C++, Python
-- Protestant
+- Christian
 - INTJ
 - Mensa member
 - [LinkedIn](https://www.linkedin.com/in/yezu-yi/)
