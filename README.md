@@ -2,7 +2,7 @@
 - Name\: (Aden) Yezu Yi
 - Native to\: Korean
 - Can speak\: (American) English (B1.2), Hebrew (A2)
-- On bachelor's degree course in computer engineering
+- On bachelor's degree course in computer engineering at Chungnam National University
 - Interested in languages, philosophy, and mathematics
 - C, C++, Python
 - Protestant
