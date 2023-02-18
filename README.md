@@ -3,9 +3,9 @@
 - Native to\: Korean
 - Can speak\: (American) English (B1.2), Hebrew (A1)
 - On bachelor's degree course in computer engineering at Chungnam National University
-- Interested in philosophy, sociology, and mathematics
+- Interested in philosophy, sociology, mathematics, and linguistics.
 - C, C++, Python
-- Timezone: UTC+09:00
+- Timezone\: UTC+09\:00
 - INTJ
 - Mensa member
 - [LinkedIn](https://www.linkedin.com/in/yezu-yi/)
