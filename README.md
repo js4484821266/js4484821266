@@ -8,7 +8,6 @@
 - INTJ
 - Mensa member
 - [LinkedIn](https://www.linkedin.com/in/yezu-yi/)
-- May have a communication problem due to some disorders.
 ## Awards
 - 13th DevDay Online Coding Test Consolation Prize from [Division of Computer Convergence](https://computer.cnu.ac.kr/computer/index.do) & [Software Research Center of Chungnam National University](https://sorec.cnu.ac.kr/sorec/index.do) (2021-11)
 - Academic Scholarship (2nd place) from [Sangji University](https://www.sangji.ac.kr/kor/index.do) (2019-08)
