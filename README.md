@@ -7,3 +7,5 @@
 - C, C++, Python, Cryptography
 - INTJ
 - [LinkedIn](https://www.linkedin.com/in/yezu-yi/)
+
+[![코드트리|실력진단-fldpwn](https://banner.codetree.ai/v1/banner/fldpwn)](https://www.codetree.ai/profiles/fldpwn)
