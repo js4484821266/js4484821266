@@ -5,5 +5,3 @@
 - On bachelor's degree course in computer engineering at Chungnam National University
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=js22642720638)](https://solved.ac/js22642720638)
-
-[![코드트리|실력진단-fldpwn](https://banner.codetree.ai/v1/banner/fldpwn)](https://www.codetree.ai/profiles/fldpwn)
