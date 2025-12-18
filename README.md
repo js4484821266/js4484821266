@@ -33,7 +33,7 @@ Re-implementing core deep learning components in C++ for learning.
 
 ## Skills
 - Python
-- SQL / Pandas / NumPy (refreshing when needed)
+- SQL / Pandas / NumPy (refreshing)
 - Git / GitHub
 - C / C++
 
