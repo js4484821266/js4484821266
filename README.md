@@ -1,68 +1,108 @@
-# Hi there, I'm Yezu Yi 👋
+# Yezu Yi (이예주)
 
-Welcome to my GitHub profile! I'm passionate about low-level programming, algorithms, deep learning, and exploring the intersection of technology and linguistics.
+I build **small but working prototypes** and practical automation tools with **Python**.
+I also enjoy diving into **C/C++ internals**.
 
-## 🚀 About Me
-
-- 💻 Developer focused on **C++**, **Python**, and algorithms
-- 🌱 Exploring deep learning from first principles
-- 🔭 Building mathematical libraries and studying programming languages
-- 🤖 Experience with AI/ML projects, including voice assistants
-
-## 🛠️ Technologies & Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Primary Languages
-- **C++** - Mathematical libraries, algorithms, deep learning implementations
-- **Python** - Machine learning, AI projects, blockchain implementations
-
-### Areas of Focus
-- Deep learning
-- AI/ML applications (voice assistants, natural language processing)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js4484821266&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=js4484821266&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 💡 Featured Projects
-
-### 🤖 AI & Machine Learning
-- **[voicebot](https://github.com/js4484821266/voicebot)** - Personal voice assistant webpage with NLP capabilities
-- **[deeplearningfromscratchcpp](https://github.com/js4484821266/deeplearningfromscratchcpp)** - C++ implementation of deep learning from first principles
-
-### 🔢 Mathematical Libraries & Algorithms
-- **[ZZQQCC](https://github.com/js4484821266/ZZQQCC)** - Library for big & extended numbers in C++ (integers, rationals, complex numbers)
-- **[algorithmimp](https://github.com/js4484821266/algorithmimp)** - Algorithm implementations in C++
-
-### 📚 Learning & Practice
-- **[codetree-TILs](https://github.com/js4484821266/codetree-TILs)** - Algorithm practice on CodeTree platform
-
-## 🎯 Current Interests
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🗣️ Natural Language Processing & Voice Assistants
-
-## ⚡ About My Work
-
-- 🔬 I enjoy implementing complex concepts from scratch to understand them deeply
-- 🤖 Interested in practical AI applications, from voice assistants to deep learning
-- 🌍 Fascinated by the intersection of programming, mathematics, and linguistics
-- 🎓 Continuous learner focused on fundamentals and first principles
+- **Focus:** Python prototyping, practical data handling/automation, lightweight apps (Streamlit/FastAPI)
+- **Current status:** Refreshing SQL/Pandas as needed (I ramp up fast with references)
+- **Goal:** Join a team with solid onboarding, code review, and documentation culture
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=js4484821266&color=brightgreen)
+## 🔥 Featured Projects
 
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!** 🚀
+### 1) Voicebot — Streamlit Demo App
+A working prototype that turns an idea into a runnable demo.
+- Repo: https://github.com/js4484821266/voicebot
+- Live demo: https://ozer-koli-ishi.streamlit.app/
+- Highlights:
+  - End-to-end runnable flow (input → processing → response)
+  - Built for quick iteration & feedback
+  - Designed to be easy to run locally (documented setup)
+
+---
+
+### 2) ZZQQCC — Big Integer Playground in C++
+**Purely curiosity-driven.** A personal experiment to work with integers **beyond 64-bit** in C++.
+- Repo: https://github.com/js4484821266/ZZQQCC
+- What I explore here:
+  - Big-integer representation design (digits/blocks)
+  - Core operations (e.g., add/sub/mul/div) and edge cases
+  - Performance vs. correctness trade-offs
+
+> Note: This is a learning playground, not a production-ready library.
+
+---
+
+### 3) DeepLearningFromScratch in C++
+Re-implementing core deep learning components in C++ for a deeper understanding.
+- Repo: https://github.com/js4484821266/deeplearningfromscratchcpp
+
+---
+
+## 🧰 Skills
+
+**Proficient**
+- Python
+
+**Familiar / Can ramp up quickly (refreshing when needed)**
+- SQL (refreshing)
+- Pandas / NumPy (refreshing)
+- Git / GitHub
+
+**Experience**
+- C / C++
+
+---
+
+## 🏆 Awards & Scholarships
+
+- **Encouragement Award**, CNU Creative SW Festival DevDay (2021)  
+  Solved **3 out of 4** problems in an online Python coding contest.
+- **Academic Excellence Scholarship** (2019, Sangji University)  
+  Ranked **2nd** among students in the same department & year.
+
+---
+
+## 🎓 Education
+
+- **Chungnam National University (CNU)** — Computer Convergence (Transfer)  
+  2021.03 ~ 2026.02 (expected) | GPA: **3.01 / 4.5**
+- **Sangji University** — Information & Communication Engineering (Withdrawn)  
+  2018.03 ~ 2020.02 | GPA: **3.94 / 4.5**
+
+---
+
+## 📚 Training
+
+- **Mathematics for Machine Learning** (Imperial College London, Coursera) — 2024.10 ~ 2024.12  
+  Linear algebra, multivariate calculus, PCA  
+  Certificate: https://coursera.org/share/e57773d01fa3dbebcfdef3a4fe02ac00
+- **LG Aimers 5th** — 2024.07 ~ 2024.12  
+  ML fundamentals, practical exercises (math/ML/DL), applied projects
+
+---
+
+## ✍️ Writing
+- Velog: https://velog.io/@js4484821266
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/yezu-yi/
+- GitHub: https://github.com/js4484821266
+
+---
+
+<details>
+<summary>🇰🇷 Credentials (Korea) — optional details</summary>
+
+These are Korea-based certifications; I keep them here as background context.
+
+- Engineer Information Processing (정보처리기사)
+- SQL Developer (SQLD)
+- ADsP (데이터분석 준전문가)
+- PCCP (Python) Lv.2  
+Proof link: https://certi.programmers.co.kr/result/share/10561
+
+</details>
