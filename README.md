@@ -1,68 +1,49 @@
-# Hi there, I'm Yezu Yi 👋
+# Yezu Yi (이예주)
 
-Welcome to my GitHub profile! I'm passionate about low-level programming, algorithms, deep learning, and exploring the intersection of technology and linguistics.
-
-## 🚀 About Me
-
-- 💻 Developer focused on **C++**, **Python**, and algorithms
-- 🌱 Exploring deep learning from first principles
-- 🔭 Building mathematical libraries and studying programming languages
-- 🤖 Experience with AI/ML projects, including voice assistants
-
-## 🛠️ Technologies & Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Primary Languages
-- **C++** - Mathematical libraries, algorithms, deep learning implementations
-- **Python** - Machine learning, AI projects, blockchain implementations
-
-### Areas of Focus
-- Deep learning
-- AI/ML applications (voice assistants, natural language processing)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js4484821266&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=js4484821266&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## 💡 Featured Projects
-
-### 🤖 AI & Machine Learning
-- **[voicebot](https://github.com/js4484821266/voicebot)** - Personal voice assistant webpage with NLP capabilities
-- **[deeplearningfromscratchcpp](https://github.com/js4484821266/deeplearningfromscratchcpp)** - C++ implementation of deep learning from first principles
-
-### 🔢 Mathematical Libraries & Algorithms
-- **[ZZQQCC](https://github.com/js4484821266/ZZQQCC)** - Library for big & extended numbers in C++ (integers, rationals, complex numbers)
-- **[algorithmimp](https://github.com/js4484821266/algorithmimp)** - Algorithm implementations in C++
-
-### 📚 Learning & Practice
-- **[codetree-TILs](https://github.com/js4484821266/codetree-TILs)** - Algorithm practice on CodeTree platform
-
-## 🎯 Current Interests
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🗣️ Natural Language Processing & Voice Assistants
-
-## ⚡ About My Work
-
-- 🔬 I enjoy implementing complex concepts from scratch to understand them deeply
-- 🤖 Interested in practical AI applications, from voice assistants to deep learning
-- 🌍 Fascinated by the intersection of programming, mathematics, and linguistics
-- 🎓 Continuous learner focused on fundamentals and first principles
+I build small, working prototypes and practical automation tools with **Python**.
+I also enjoy exploring **C/C++ internals** as a hobby.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=js4484821266&color=brightgreen)
+## Featured Projects
 
-**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!** 🚀
+### ZZQQCC — Big Integer Playground in C++
+Curiosity-driven experiment: handling integers **beyond 64-bit** in C++.
+
+- Repo: https://github.com/js4484821266/ZZQQCC
+
+---
+
+### DeepLearningFromScratch in C++
+Re-implementing core deep learning components in C++ for learning.
+
+- Repo: https://github.com/js4484821266/deeplearningfromscratchcpp
+
+---
+
+## Skills
+- Python
+- SQL / Pandas / NumPy (refreshing)
+- Git / GitHub
+- C / C++
+
+---
+
+## Awards & Scholarships
+- CNU Creative SW Festival DevDay (2021) — Encouragement Award (Python, solved 3/4)
+- Academic Excellence Scholarship (2019, Sangji University) — ranked 2nd in department/year
+
+---
+
+## Training
+- Mathematics for Machine Learning (Imperial College London, Coursera)  
+  https://coursera.org/share/e57773d01fa3dbebcfdef3a4fe02ac00
+- LG Aimers 5th (2024)
+
+---
+
+## Writing
+- Velog: https://velog.io/@js4484821266
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/yezu-yi/
