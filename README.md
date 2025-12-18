@@ -53,10 +53,12 @@ Welcome to my GitHub profile! I'm passionate about coding, building innovative p
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/js4484821266) *(Update with your LinkedIn profile)*
-- 🐦 [Twitter](https://twitter.com/js4484821266) *(Update with your Twitter handle)*
-- 📧 Email: your.email@example.com *(Update with your email)*
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(Update with your website)*
+- 💼 LinkedIn: [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/YOUR-PROFILE)
+- 🐦 Twitter: [@YOUR-HANDLE](https://twitter.com/YOUR-HANDLE)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+> **Note:** Please update the above links with your actual contact information!
 
 ## 💡 Interests
 
