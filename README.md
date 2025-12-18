@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi there, I'm js4484821266 👋
 
-<!--
-**js4484821266/js4484821266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, building innovative projects, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Developer with a passion for creating efficient and scalable solutions
+- 🌱 Always learning and exploring new technologies
+- 🔭 Currently working on various exciting projects
+- 👯 Open to collaborating on interesting open-source projects
+- 💬 Feel free to ask me about programming, software development, and technology
+
+## 🛠️ Technologies & Tools
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+### Languages
+- JavaScript/TypeScript
+- Python
+- Java
+- C/C++
+- HTML/CSS
+
+### Frameworks & Libraries
+- React
+- Node.js
+- Express
+- Django
+- Spring Boot
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- Linux
+- AWS/Cloud Services
+- CI/CD
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js4484821266&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=js4484821266&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/js4484821266) *(Update with your LinkedIn profile)*
+- 🐦 [Twitter](https://twitter.com/js4484821266) *(Update with your Twitter handle)*
+- 📧 Email: your.email@example.com *(Update with your email)*
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(Update with your website)*
+
+## 💡 Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development
+- 📱 Mobile App Development
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🎮 Game Development
+
+## 📌 Pinned Repositories
+
+Check out my pinned repositories below to see what I've been working on!
+
+## ⚡ Fun Facts
+
+- 🎯 I love solving complex problems and turning ideas into reality
+- 📚 Continuous learner who enjoys exploring new programming paradigms
+- 🎨 I believe in writing clean, maintainable code
+- 🌟 Open source contributor and community enthusiast
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=js4484821266&color=brightgreen)
+
+**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!** 🚀
