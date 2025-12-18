@@ -7,16 +7,6 @@ I also enjoy exploring **C/C++ internals** as a hobby.
 
 ## Featured Projects
 
-### Voicebot — Voice Assistant Demo (Streamlit)
-Set your **OpenAI API key**, speak into the **microphone**, and the assistant replies.
-
-**Warning**: deprecated.
-
-- Repo: https://github.com/js4484821266/voicebot
-- Live demo: https://ozer-koli-ishi.streamlit.app/
-
----
-
 ### ZZQQCC — Big Integer Playground in C++
 Curiosity-driven experiment: handling integers **beyond 64-bit** in C++.
 
