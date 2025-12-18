@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ## 💡 About Me
 
 🔭 I build **small, working prototypes** and **practical automation tools** with Python
@@ -32,8 +30,6 @@
 📝 I share my journey on [**Velog**](https://velog.io/@js4484821266)
 
 ⚡ Fun fact: I enjoy **diving deep** into how things work under the hood
-
-<br clear="right"/>
 
 ---
 
@@ -48,14 +44,15 @@
 ### 🔢 [ZZQQCC](https://github.com/js4484821266/ZZQQCC)
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
 
 **Big Integer Playground in C++**
 
-> A curiosity-driven experiment handling integers **beyond 64-bit** in C++. Exploring arbitrary precision arithmetic implementation.
+> A curiosity-driven experiment handling integers **beyond 64-bit** in C++. Learning arbitrary precision arithmetic through hands-on implementation.
 
-🔹 Custom big integer implementation  
-🔹 Mathematical operations  
-🔹 Performance optimization  
+🔹 Exploring custom big integer implementation  
+🔹 Experimenting with mathematical operations  
+🔹 Learning performance optimization  
 
 [![Stars](https://img.shields.io/github/stars/js4484821266/ZZQQCC?style=social)](https://github.com/js4484821266/ZZQQCC)
 
@@ -65,14 +62,15 @@
 ### 🧠 [DeepLearning From Scratch](https://github.com/js4484821266/deeplearningfromscratchcpp)
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
 
 **Learning by Building**
 
-> Re-implementing core deep learning components in C++ from scratch to understand the fundamentals.
+> Re-implementing core deep learning components in C++ from scratch to understand the fundamentals. A work-in-progress educational project.
 
-🔹 Neural network building blocks  
-🔹 Forward & backward propagation  
-🔹 Educational implementation  
+🔹 Building neural network components  
+🔹 Learning forward & backward propagation  
+🔹 Ongoing educational implementation  
 
 [![Stars](https://img.shields.io/github/stars/js4484821266/deeplearningfromscratchcpp?style=social)](https://github.com/js4484821266/deeplearningfromscratchcpp)
 
@@ -92,7 +90,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -100,9 +97,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -110,11 +104,10 @@
 ### 📊 Skill Levels
 
 ```text
-Languages        ████████████████████░░   Python, C/C++, SQL
-Data Science     ███████████████░░░░░░░   Pandas, NumPy, Analysis
+Languages        ████████████████████░░   Python, C/C++
+Data Science     ███████████░░░░░░░░░░░   Pandas, NumPy (refreshing)
 Deep Learning    ███████████░░░░░░░░░░░   Fundamentals, Math
-Systems          ████████████████░░░░░░   Low-level Programming
-Tools            ████████████████████░░   Git, GitHub, Linux
+Low-level        ████████████████░░░░░░   C/C++ Systems Programming
 ```
 
 ---
@@ -244,25 +237,9 @@ mindmap
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/><br/>
-<b>Professional</b><br/>
-<a href="https://www.linkedin.com/in/yezu-yi/">LinkedIn</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/blog.png" width="50"/><br/>
-<b>Technical Blog</b><br/>
-<a href="https://velog.io/@js4484821266">Velog</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/email.png" width="50"/><br/>
-<b>Email Me</b><br/>
-<a href="mailto:yezu.yi@pm.me">yezu.yi@pm.me</a>
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yezu-yi/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yezu.yi@pm.me)
 
 </div>
 
