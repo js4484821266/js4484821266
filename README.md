@@ -129,7 +129,7 @@
 - Multivariate Calculus
 - PCA & Dimensionality Reduction
 
-[📜 View Certificate](https://coursera.org/share/e57773d01fa3dbebcfdef3a4fe02ac00)
+[📜 View Certificate](https://coursera.org/share/e57773d01fa3dbebfcdef3a4fe02ac00)
 
 </td>
 <td width="50%">
