@@ -5,11 +5,6 @@
 
 ### 🐍 Python Developer | 💻 C/C++ Enthusiast | 🤖 ML Explorer
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+to+learn%2C+learning+to+build;Exploring+the+depths+of+C%2FC%2B%2B;Creating+practical+Python+tools;Diving+into+ML+fundamentals" alt="Typing SVG" /></a>
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yezu-yi/)
 [![Velog](https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yezu.yi@pm.me)
