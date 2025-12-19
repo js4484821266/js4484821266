@@ -29,8 +29,6 @@
 
 📝 I share my journey on [**Velog**](https://velog.io/@js4484821266)
 
-⚡ Fun fact: I enjoy **diving deep** into how things work under the hood
-
 ---
 
 ## 🚀 Featured Projects
@@ -100,15 +98,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-### 📊 Skill Levels
-
-```text
-Languages        ████████████████████░░   Python, C/C++
-Data Science     ███████████░░░░░░░░░░░   Pandas, NumPy (refreshing)
-Deep Learning    ███████████░░░░░░░░░░░   Fundamentals, Math
-Low-level        ████████████████░░░░░░   C/C++ Systems Programming
-```
 
 ---
 
@@ -188,50 +177,7 @@ Low-level        ████████████████░░░░░
 
 ---
 
-## 🎯 Current Focus
-
 <div align="center">
-
-```mermaid
-mindmap
-  root((Yezu Yi))
-    Python Development
-      Automation Tools
-      Prototyping
-      Data Analysis
-    C/C++ Exploration
-      Low-level Systems
-      Big Integer Arithmetic
-      DL From Scratch
-    Machine Learning
-      Mathematical Foundations
-      Neural Networks
-      Practical Applications
-    Continuous Learning
-      Technical Writing
-      Open Source
-      Community Engagement
-```
-
-</div>
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-**I'm always open to interesting conversations and collaboration opportunities!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yezu-yi/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yezu.yi@pm.me)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Building to learn, learning to build."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=js4484821266&color=blueviolet&style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-blue?style=for-the-badge)
