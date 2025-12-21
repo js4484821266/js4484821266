@@ -3,29 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yezu%20Yi%20(이예주)&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-### 🐍 Python Developer | 💻 C/C++ Enthusiast | 🤖 ML Explorer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yezu-yi/)
-[![Velog](https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yezu.yi@pm.me)
-[![GitHub followers](https://img.shields.io/github/followers/js4484821266?label=Follow&style=for-the-badge&color=purple)](https://github.com/js4484821266)
-
-</div>
-
----
-
-## 💡 About Me
-
-🔭 I build **small, working prototypes** and **practical automation tools** with Python
-
-🌱 Currently exploring **C/C++ internals** and **deep learning fundamentals**
-
-💻 I believe in learning by **building from scratch**
-
-📝 I share my journey on [**Velog**](https://velog.io/@js4484821266)
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -152,21 +129,6 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=tokyonight&hide_border=true" />
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=js4484821266&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## ✍️ Latest Blog Posts
-
-<div align="center">
-
-📝 **I share my learning journey and technical insights**
-
-[![Velog](https://img.shields.io/badge/Read%20My%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white&shadow)](https://velog.io/@js4484821266)
-
-<!-- Replace with actual blog post feed if available -->
-*Topics: Python, C/C++, Machine Learning, Data Structures, Algorithms*
 
 </div>
 
