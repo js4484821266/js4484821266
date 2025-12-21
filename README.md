@@ -3,55 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yezu%20Yi%20(이예주)&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔢 [ZZQQCC](https://github.com/js4484821266/ZZQQCC)
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
-
-**Big Integer Playground in C++**
-
-> A curiosity-driven experiment handling integers **beyond 64-bit** in C++. Learning arbitrary precision arithmetic through hands-on implementation.
-
-🔹 Exploring custom big integer implementation  
-🔹 Experimenting with mathematical operations  
-🔹 Learning performance optimization  
-
-[![Stars](https://img.shields.io/github/stars/js4484821266/ZZQQCC?style=social)](https://github.com/js4484821266/ZZQQCC)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [DeepLearning From Scratch](https://github.com/js4484821266/deeplearningfromscratchcpp)
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
-
-**Learning by Building**
-
-> Re-implementing core deep learning components in C++ from scratch to understand the fundamentals. A work-in-progress educational project.
-
-🔹 Building neural network components  
-🔹 Learning forward & backward propagation  
-🔹 Ongoing educational implementation  
-
-[![Stars](https://img.shields.io/github/stars/js4484821266/deeplearningfromscratchcpp?style=social)](https://github.com/js4484821266/deeplearningfromscratchcpp)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
