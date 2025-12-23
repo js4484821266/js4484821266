@@ -30,8 +30,8 @@
 
 | 🗓️ Year | 🏅 Achievement | 📝 Details |
 |:-------:|:---------------|:-----------|
-| 🥉 **2021** | **CNU Creative SW Festival DevDay** | Encouragement Award<br/>✨ Solved 3/4 problems in Python |
 | 🥈 **2019** | **Academic Excellence Scholarship** | Ranked 2nd in department/year<br/>🎓 Sangji University |
+| 🥉 **2021** | **CNU Creative SW Festival DevDay** | Encouragement Award<br/>✨ Solved 3/4 problems in Python |
 
 </div>
 
