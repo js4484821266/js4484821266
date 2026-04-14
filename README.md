@@ -77,6 +77,7 @@ class YezuYi:
 ### 🤖 [Turinglet](https://github.com/js4484821266/turinglet)
 > 대화 타이밍 제어를 실험하는 이벤트 기반 AI 대화 프로토타입
 
+![WIP](https://img.shields.io/badge/Status-WIP-orange?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -108,6 +109,7 @@ class YezuYi:
 ### 🌐 [Anticlassif](https://js4484821266.github.io/anticlassif/)
 > 라이브 웹 데모
 
+![WIP](https://img.shields.io/badge/Status-WIP-orange?style=flat-square)
 ![Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=flat-square&logo=github)
 
 - GitHub Pages로 배포된 **라이브 웹 애플리케이션**
@@ -124,6 +126,7 @@ class YezuYi:
 ### 🔢 [ZZQQCC](https://github.com/js4484821266/ZZQQCC)
 > C++ 임의 정밀도(arbitrary-precision) 정수 라이브러리
 
+![WIP](https://img.shields.io/badge/Status-WIP-orange?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
