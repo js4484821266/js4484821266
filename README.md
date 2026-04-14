@@ -24,14 +24,12 @@ class YezuYi:
     name    = "Yezu Yi (이예주)"
     focus   = ["Machine Learning", "Data Science", "AI"]
     langs   = ["Python", "C", "C++"]
-    goal    = "Build intelligent systems that help people"
-    motto   = "Learn · Build · Iterate 🚀"
 ```
 
 - 🔭 Exploring **Machine Learning** and **AI applications**
 - 🌱 Currently deepening knowledge in **Deep Learning**
 - 🏆 LG Aimers 5th Program alumnus *(2024)*
-- 🎓 Mathematics for ML — Imperial College London *(Coursera)*
+- 🎓 Mathematics for ML Specialization — Imperial College London *(Coursera)*
 - 💡 Passionate about turning data into decisions
 
 <br clear="right"/>
@@ -133,7 +131,7 @@ class YezuYi:
 - Implements the `ZZ` class named after **ℤ (the set of integers)** in mathematics
 - Supports signed arbitrary-size integer arithmetic
 - Full implementation of arithmetic, bitwise, and comparison operators
-- Internally uses a base-2^(8·sizeof(uint)) digit system
+- Internally uses a `base-2^(8·sizeof(uint))` digit system
 
 </td>
 </tr>
@@ -209,7 +207,7 @@ class YezuYi:
 <tr>
 <td width="50%" valign="top">
 
-<h3>📐 Mathematics for Machine Learning</h3>
+<h3>📐 Mathematics for Machine Learning Specialization</h3>
 <b>Imperial College London</b> <i>(Coursera)</i><br/><br/>
 
 ![Mathematics](https://img.shields.io/badge/Specialization-Complete-brightgreen?style=flat-square&logo=coursera)
