@@ -30,6 +30,7 @@ class YezuYi:
 
 - 🔭 Exploring **Machine Learning** and **AI applications**
 - 🌱 Currently deepening knowledge in **Deep Learning**
+- 🏆 LG Aimers 5th Program alumnus *(2024)*
 - 🎓 Mathematics for ML — Imperial College London *(Coursera)*
 - 💡 Passionate about turning data into decisions
 
@@ -206,7 +207,7 @@ class YezuYi:
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 <h3>📐 Mathematics for Machine Learning</h3>
 <b>Imperial College London</b> <i>(Coursera)</i><br/><br/>
@@ -221,6 +222,18 @@ class YezuYi:
 <a href="https://coursera.org/share/e57773d01fa3dbebfcdef3a4fe02ac00">
   <img src="https://img.shields.io/badge/📜%20View%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎯 LG Aimers 5th (2024)</h3>
+<b>AI/ML Training Program</b><br/><br/>
+
+![AI Training](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=lg)
+
+- ✅ Machine Learning Fundamentals
+- ✅ Model Development
+- ✅ Real-world Applications
 
 </td>
 </tr>
