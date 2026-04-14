@@ -19,8 +19,6 @@
 
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ```python
 class YezuYi:
     name    = "Yezu Yi (이예주)"
@@ -32,7 +30,6 @@ class YezuYi:
 
 - 🔭 Exploring **Machine Learning** and **AI applications**
 - 🌱 Currently deepening knowledge in **Deep Learning**
-- 🏆 LG Aimers 5th Program graduate *(2024)*
 - 🎓 Mathematics for ML — Imperial College London *(Coursera)*
 - 💡 Passionate about turning data into decisions
 
@@ -58,8 +55,10 @@ class YezuYi:
 
 ### ⚙️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📖 Currently Learning
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -207,7 +206,7 @@ class YezuYi:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <h3>📐 Mathematics for Machine Learning</h3>
 <b>Imperial College London</b> <i>(Coursera)</i><br/><br/>
@@ -222,18 +221,6 @@ class YezuYi:
 <a href="https://coursera.org/share/e57773d01fa3dbebfcdef3a4fe02ac00">
   <img src="https://img.shields.io/badge/📜%20View%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎯 LG Aimers 5th (2024)</h3>
-<b>AI/ML Training Program</b><br/><br/>
-
-![AI Training](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=lg)
-
-- ✅ Machine Learning Fundamentals
-- ✅ Model Development
-- ✅ Real-world Applications
 
 </td>
 </tr>
