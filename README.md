@@ -22,7 +22,6 @@
 ```
 💻 C++ & Low-Level Programming
 🐍 Python
-🌐 Web Technologies (HTML, JavaScript/TypeScript)
 🤖 Machine Learning & Deep Learning
 🔗 Blockchain & Cryptography
 🗣️ Language Design & Implementation
