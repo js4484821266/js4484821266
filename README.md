@@ -48,10 +48,10 @@
 
 | Project | Description |
 |---------|-------------|
-| [deeplearningfromscratchcpp](https://github.com/js4484821266/deeplearningfromscratchcpp) | 딥러닝을 C++로 처음부터 구현하기 |
-| [blockchainpy](https://github.com/js4484821266/blockchainpy) | Python으로 블록체인 개념 구현 |
-| [qrgen](https://github.com/js4484821266/qrgen) | QR코드 생성 도구 |
-| [ar-yardstick](https://github.com/js4484821266/ar-yardstick) | AR 기술을 활용한 프로젝트 |
+| [Haan-Ghil-Muulnaat](https://github.com/js4484821266/Haan-Ghil-Muulnaat) | 온디바이스 이미지 보호 앱 - 얼굴 감지 방해 perturbation 적용 |
+| [turinglet](https://github.com/js4484821266/turinglet) | 이벤트 기반 AI 대화 프로토타입 - 대화 타이밍 제어 실험 |
+| [news_summary_system](https://github.com/js4484821266/news_summary_system) | 졸업 프로젝트 - 멀티모달 데이터를 활용한 기사 요약 챗봇 시스템 |
+| [pealim-to-anki](https://github.com/js4484821266/pealim-to-anki) | Pealim.com에서 데이터 크롤링하여 Anki 노트 생성 |
 
 더 많은 프로젝트는 [여기](https://github.com/js4484821266?tab=repositories)에서 확인할 수 있습니다.
 
