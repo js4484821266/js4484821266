@@ -212,13 +212,14 @@ A Python scraper that converts Hebrew vocabulary data from Pealim.com into Anki-
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=tokyonight&hide_border=true" />
+<img  src="https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<br/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js4484821266&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=js4484821266&theme=tokyo-night&hide_border=true&area=true" />
+
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=js4484821266&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
