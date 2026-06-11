@@ -1,233 +1,71 @@
+# 👨‍💻 js4484821266
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yezu%20Yi%20%28%EC%9D%B4%EC%98%88%EC%A3%BC%29&fontSize=52&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Python%20%7C%20AI%20Applications%20%7C%20Automation%20%7C%20Data-driven%20Validation&descAlignY=55&descSize=17" />
-
-[![GitHub followers](https://img.shields.io/github/followers/js4484821266?label=Followers\&style=social)](https://github.com/js4484821266)
-![Profile Views](https://komarev.com/ghpvc/?username=js4484821266\&color=blueviolet\&style=flat-square\&label=Profile+Views)
+  
+  [![GitHub followers](https://img.shields.io/github/followers/js4484821266?style=social)](https://github.com/js4484821266)
+  [![GitHub User's stars](https://img.shields.io/github/stars/js4484821266?style=social)](https://github.com/js4484821266)
 
 </div>
 
 ---
 
-## About Me
+## 🎯 About Me
 
-```python
-class YezuYi:
-    name = "Yezu Yi"
-    role = "Entry-level developer"
-    focus = [
-        "Python automation",
-        "AI application prototyping",
-        "Data-driven validation",
-        "Computer vision experiments"
-    ]
-    interests = [
-        "Machine learning",
-        "Multimodal AI",
-        "Developer productivity",
-        "Language learning tools"
-    ]
+> 새로운 기술과 아이디어에 관심 있는 개발 학습자입니다.
+
+안녕하세요! 다양한 분야의 기술들을 배우고 있는 개발자입니다.
+
+---
+
+## 🚀 Skills & Interests
+
+```
+💻 C++ & Low-Level Programming
+🐍 Python
+🤖 Machine Learning & Deep Learning
+🔗 Blockchain & Cryptography
+🗣️ Language Design & Implementation
+📊 Algorithm & Data Structures
+📚 Always Learning
 ```
 
-I am an entry-level developer interested in building practical tools with Python, AI, and automation.
-
-My projects focus on reducing repetitive work, validating results with measurable data, and turning experimental ideas into working prototypes. I have worked on image protection experiments, event-driven AI conversation flow, multimodal news summarization, and automated Hebrew learning data collection.
-
 ---
 
-## Tech Stack
+## 📊 GitHub Stats
 
 <div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### AI, Data, and Computer Vision
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-### Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## Featured Projects
+## 🎨 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description |
+|---------|-------------|
+| [Haan-Ghil-Muulnaat](https://github.com/js4484821266/Haan-Ghil-Muulnaat) | 온디바이스 이미지 보호 앱 - 얼굴 감지 방해 perturbation 적용 |
+| [turinglet](https://github.com/js4484821266/turinglet) | 이벤트 기반 AI 대화 프로토타입 - 대화 타이밍 제어 실험 |
+| [news_summary_system](https://github.com/js4484821266/news_summary_system) | 졸업 프로젝트 - 멀티모달 데이터를 활용한 기사 요약 챗봇 시스템 |
+| [pealim-to-anki](https://github.com/js4484821266/pealim-to-anki) | Pealim.com에서 데이터 크롤링하여 Anki 노트 생성 |
 
-### [Haan-Ghil-Muulnaat](https://github.com/js4484821266/Haan-Ghil-Muulnaat)
-
-**On-device portrait image protection app**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
-![Data Validation](https://img.shields.io/badge/Data--driven%20Validation-blueviolet?style=flat-square)
-
-An Android app experiment for protecting portrait images from face detection by applying local perturbation.
-
-* Built an Android app for portrait image protection
-* Tested face detection evasion with local perturbation
-* Reduced minimum effective strength search space from 101 values to 10 values
-* Reduced 100-image processing time from 24 minutes to 800 seconds
-* Recorded defense success rates by model
-* Supported gallery saving and multi-image share sheet handling
-
-**Keywords:** Android, image processing, computer vision, perturbation, validation
-
-</td>
-<td width="50%" valign="top">
-
-### [Turinglet](https://github.com/js4484821266/turinglet)
-
-**Event-driven AI conversation prototype**
-
-![AI](https://img.shields.io/badge/AI%20Prototype-7F3FBF?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-
-A prototype that explores AI conversation timing, not just response generation.
-
-* Designed an AI conversation flow beyond one-turn question answering
-* Separated response content from response timing
-* Implemented asynchronous conversation behavior
-* Handled cases such as user typing, silence, proactive speech, and intentional no-response
-* Explored a more human-like real-time chat experience
-
-**Keywords:** AI conversation, event-driven design, asynchronous flow, prototype
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [News Summary System](https://github.com/js4484821266/news_summary_system)
-
-**One-click multimodal news summarization Chrome extension**
-
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-
-A graduation project for summarizing news articles with text, image, and video-based information.
-
-* Participated in a team-developed Chrome extension
-* Tested a local Korean T5 summarization model
-* Worked on YouTube video download and video summarization tests
-* Implemented image captioning, translation, caption storage, and retrieval features
-* Explored multimodal summarization for reducing article consumption time
-
-**Keywords:** Chrome extension, summarization, multimodal AI, image captioning, video-to-text
-
-</td>
-<td width="50%" valign="top">
-
-### [Pealim-to-Anki](https://github.com/js4484821266/pealim-to-anki)
-
-**Hebrew learning data collection automation tool**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=flat-square)
-![Anki](https://img.shields.io/badge/Anki-80C2EE?style=flat-square)
-
-A Python scraper that converts Hebrew vocabulary data from Pealim.com into Anki-ready TSV files.
-
-* Collected Hebrew verbs, nouns, adjectives, prepositions, and related forms
-* Generated TSV files for Anki import
-* Checked `robots.txt` and applied request interval limits
-* Reduced manual data entry time by about 54 percent in a 130-sample test
-
-**Keywords:** Python, web scraping, BeautifulSoup, Anki, Hebrew
-
-</td>
-</tr>
-</table>
+더 많은 프로젝트는 [여기](https://github.com/js4484821266?tab=repositories)에서 확인할 수 있습니다.
 
 ---
 
-## Additional Project
+## 🤝 Connect with Me
 
-### [ZZQQCC](https://github.com/js4484821266/ZZQQCC)
-
-**C++ arbitrary-precision integer library**
-
-* Implements a `ZZ` class named after the mathematical set of integers
-* Supports signed arbitrary-size integer arithmetic
-* Includes arithmetic, bitwise, and comparison operators
-* Uses a base-2 digit system internally
-
----
-
-## Awards and Recognition
-
-| Year | Achievement                                         | Details                                                                        |
-| ---- | --------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2025 | TOPCIT IT Business and Ethics Area Award            | Scored 80 percent or higher in the "IT Business and Ethics Understanding" area |
-| 2021 | CNU Creative SW Festival DevDay Encouragement Award | Solved 3 out of 4 coding test problems in Python                               |
-| 2019 | Academic Excellence Scholarship                     | Ranked 2nd in department and year at Sangji University                         |
-
----
-
-## Certifications and Training
-
-| Year | Name                                            | Organization                      | Notes                                      |
-| ---- | ----------------------------------------------- | --------------------------------- | ------------------------------------------ |
-| 2025 | PCCP Python3 Lv.2                               | Grepp                             | Python programming certification           |
-| 2024 | Engineer Information Processing                 | HRDK                              | National technical qualification           |
-| 2023 | ADsP                                            | Korea Data Agency                 | Data analysis qualification                |
-| 2022 | SQLD                                            | Korea Data Agency                 | SQL developer qualification                |
-| 2024 | LG Aimers 5th Practical Course                  | elice                             | ML, deep learning, NLP, image-based ML     |
-| 2024 | Mathematics for Machine Learning Specialization | Coursera, Imperial College London | Linear algebra, multivariate calculus, PCA |
-
-[View Coursera Certificate](https://coursera.org/share/e57773d01fa3dbebfcdef3a4fe02ac00)
-
----
-
-## How I Work
-
-* I build tools that reduce repetitive manual work.
-* I prefer validating results with numbers rather than only describing ideas.
-* I try to understand the structure of code, not just make it run.
-* I use AI coding tools as implementation support while reviewing, testing, and improving the output.
-* I like projects where language, data, and AI can be turned into practical software.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=js4484821266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=js4484821266&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js4484821266&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=js4484821266&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-js4484821266-black?style=for-the-badge&logo=github)](https://github.com/js4484821266)
 
 ---
 
 <div align="center">
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue?style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" />
+  
+  ⭐ **Thank you for visiting my profile!** ⭐
+  
+  _Last updated: 2026_
 
 </div>
