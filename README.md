@@ -6,9 +6,7 @@
 
 실행 결과와 데이터를 근거로 문제를 정의하고, 직접 검증하며 개선하는 신입 개발자입니다.
 
-[![GitHub](https://img.shields.io/badge/GitHub-js4484821266-181717?style=for-the-badge&logo=github)](https://github.com/js4484821266)
 [![Velog](https://img.shields.io/badge/Velog-기술%20블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266/posts)
-[![Blog](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge)](https://github.com/js4484821266)
 
 </div>
 
