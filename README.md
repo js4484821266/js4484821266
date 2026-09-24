@@ -92,7 +92,6 @@
 | **📅 기간** | 2026.02 ~ 2026.06 |
 | **🔗 Repository** | [한 길 물낯](https://github.com/js4484821266/Haan-Ghil-Muulnaat) |
 | **🏆 성과** | **44.4% 성능 개선** / **91.0% 통과율** |
-| **💻 기술** | `Android` `MediaPipe` `InsightFace` `OpenCV` `이진 탐색` |
 
 </div>
 
@@ -112,7 +111,7 @@
 | **📅 기간** | 2026.04 ~ 2026.06 |
 | **🔗 Repository** | [삼마고](https://github.com/js4484821266/turinglet) |
 | **🏆 특징** | **자율 발화형 AI** / **이벤트 기반 설계** |
-| **💻 기술** | `Web App` `AI` `WebSocket` `Local LLM` |
+
 
 </div>
 
@@ -133,7 +132,7 @@
 | **📅 기간** | 2025.03 ~ 2025.06 |
 | **🔗 Repository** | [뉴스 요약 시스템](https://github.com/js4484821266/news_summary_system) |
 | **🎖️ 등급** | **졸업 프로젝트** |
-| **💻 기술** | `Speech-to-Text` `Summarization` `Image Captioning` `Translation` |
+
 
 </div>
 
