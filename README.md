@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Welcome+to+Yi+Yezu's+Profile;AI%2FML+Developer;Data+Verification+Expert" alt="Typing SVG" />
 
 # 👨‍💻 이예주 · Yi Yezu
 
-### 🤖 AI 활용 개발 · 📊 데이터 검증 · 🔬 실험 기반 문제 해결
 
-> 실행 결과와 데이터를 근거로 문제를 정의하고, 직접 검증하며 개선하는 **신입 개발자**입니다.
 
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-js4484821266-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/js4484821266)
 [![Velog](https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266/posts)
