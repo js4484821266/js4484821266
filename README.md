@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-js4484821266-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/js4484821266)
 [![Velog](https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@js4484821266/posts)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js4484821266@gmail.com)
 
 </div>
 
