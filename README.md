@@ -34,14 +34,6 @@
 
 </div>
 
-## 🚀 Featured Projects
-
-| Project | Description | Focus |
-| --- | --- | --- |
-| [한 길 물낯](https://github.com/js4484821266/Haan-Ghil-Muulnaat) | On-device face image protection Android app | Android · Computer Vision |
-| [삼마고](https://github.com/js4484821266/turinglet) | Event-driven AI conversation application | AI · Web · Event-driven design |
-| [News Summary System](https://github.com/js4484821266/news_summary_system) | Multimodal article summarization project | NLP · AI · Browser extension |
-| [Pealim to Anki](https://github.com/js4484821266/pealim-to-anki) | Hebrew vocabulary and inflection data collection pipeline | Python · Automation |
 
 ## 🧰 Tools & Technologies
 
